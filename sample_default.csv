@@ -1,0 +1,2 @@
+post_id,post_name,post_author,post_date,post_type,post_status,post_title,post_content,post_category,post_tags,menu_order,post_thumbnail
+,Import-test,admin,2021/11/17 0:00,post,publish,CSV Import Test,"ここがthe_content(ヴィジュアルエディタで入力したものを出力する関数)に相当する箇所です。","カテゴリー1,カテゴリー2","Tag1,tag2",,https://image.shutterstock.com/image-vector/sample-stamp-grunge-texture-vector-260nw-1389188327.jpg
